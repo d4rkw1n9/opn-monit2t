@@ -11,6 +11,7 @@
          <token type="TextField"/>
          <chat_id type="TextField"/>
          <message type="TextField"/>
+         <token_ip type"TextField"/>
       </general>
    </items>
 </model>
