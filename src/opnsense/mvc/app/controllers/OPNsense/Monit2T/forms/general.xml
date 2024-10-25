@@ -24,4 +24,10 @@
       <advanced>true</advanced>
       <help><![CDATA[Custom message format (if needed). Use braces for Monit env vars. Like {MONIT_HOST}]]></help>
    </field>
+   <field>
+      <id>monit2t.general.token_ip</id>
+      <label>ipinfo.io Token</label>
+      <type>text</type>
+      <help><![CDATA[API Token from ipinfo.io.]]></help>
+   </field>
 </form>
