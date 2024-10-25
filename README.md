@@ -1,3 +1,6 @@
+WORK IN PROGRESS - DO NOT USE !
+
+
 A simple OPNsense plugin that send Monit alerts to the telegram bot. All creds to kulikov-a. 
 
 Mod version: added ipinfo.io token to retrieve ip information where available. To extend cache (to accommodate for longer message), add this to /usr/local/opnsense/service/templates/OPNsense/Monit/monitrc:
